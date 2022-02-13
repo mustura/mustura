@@ -1,8 +1,15 @@
 ### Hi there 👋, I am  Mustura Mottaleb
 #### A Front End  Web Developer
-👩‍🎓I graduated with a Computer Science bachelor degree from BUBT, Dhaka, Bangladesh now I am studying Master´s Program in Computer Science at University Of Gothenburg, Sweden. I’m a Front End Web Developer who is passionate about making error-free websites. Personable IT 3 year experience as Computer Science Engineer. Efficient in working at fast pace environment and excellent organizational and interpersonal organization. Passion to learn quickly and adjust to new environments and technologies.
+👩‍🎓I graduated with a Computer Science bachelor degree from BUBT, Dhaka, Bangladesh now I am studying Master´s Program in Computer Science at University Of Gothenburg, Sweden.
 
-Skills:  REACT / JS / HTML / CSS / PHP
+I’m a Front End Web Developer who is passionate about making error-free websites. Personable IT 3 year experience as Computer Science Engineer. Efficient in working at fast pace environment and excellent organizational and interpersonal organization. Passion to learn quickly and adjust to new environments and technologies.
+
+### Skills:
+✔REACT
+✔JS 
+✔HTML 
+✔CSS 
+✔PHP
 
 - 🔭 I’m currently working on upwork 
 - 🌱 I’m currently learning JavaScript 
